@@ -1,8 +1,8 @@
-package be.afelio.software_academy.jpa.exercice.timesheets.timesheets;
+package be.afelio.software_academy.jpa.exercice.timesheets;
 
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.Employee;
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.Prestation;
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.Project;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.Employee;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.Prestation;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.Project;
 
 public interface TimesheetsRepository {
 

@@ -5,8 +5,8 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.TimesheetsRepository;
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.Prestation;
+import be.afelio.software_academy.jpa.exercice.timesheets.TimesheetsRepository;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.Prestation;
 
 public class _08_TestFindOnePrestationById extends TestBase {
 

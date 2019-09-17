@@ -2,7 +2,7 @@ package be.afelio.software_academy.jpa.exercice.timesheets;
 
 import static org.junit.Assert.*;
 
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.*;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.*;
 
 public class TestBase {
 	

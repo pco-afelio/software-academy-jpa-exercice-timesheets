@@ -5,9 +5,9 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.TimesheetsRepository;
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.Employee;
-import be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans.Project;
+import be.afelio.software_academy.jpa.exercice.timesheets.TimesheetsRepository;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.Employee;
+import be.afelio.software_academy.jpa.exercice.timesheets.beans.Project;
 
 public class _03_TestFindOneEmployeeByLoginAndPassword extends TestBase {
 

@@ -1,4 +1,4 @@
-package be.afelio.software_academy.jpa.exercice.timesheets.timesheets.beans;
+package be.afelio.software_academy.jpa.exercice.timesheets.beans;
 
 public interface Project {
 
