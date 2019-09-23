@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="src-api"/>
 	<classpathentry kind="src" path="src-tests"/>
 	<classpathentry kind="src" path="src-config"/>
+	<classpathentry kind="src" path="src-pco"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
